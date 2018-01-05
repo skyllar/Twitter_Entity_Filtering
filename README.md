@@ -5,6 +5,7 @@ The Project has following components:
 PS: Video Overview: https://www.youtube.com/watch?v=JgqexBy0K7s
 
 Approach:
+
 • Supervised Machine learning is used to decide if the entity belongs to an entity or
 not.
 • Dataset from RepLab, home page and wikipedia page of the entity is being used.
