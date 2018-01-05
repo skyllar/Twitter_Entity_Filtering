@@ -15,11 +15,13 @@ weight vector obtained from the trained model.
 
 Usage:
 There are three packages in the "src" file:
+
 	a)com.basicTweetsClassification
 	b)com.svmTraining
 	c)com.TestsTweetsClassification
 
 Description of pacakges:
+
 	a)com.basicTweetsClassification:It contains following java files :
 		1.ConvertHtmlToText.java 
 		2.DumpTrainingData.java
@@ -48,6 +50,7 @@ Description of pacakges:
 		6.TestTweetsParsing.java
 
 How to Run:
+
 	a)Preprocessing,Feature Extraction and building model for Training tweets:
 		1.Set the appropriate paths for the training tweets in  GoabalVariables.java (package:com.basicTweetsClassification).
 		2.Run the Main.java (package:com.basicTweetsClassification).It will build feature-vector for training tweets ,output will be dumped in file.
