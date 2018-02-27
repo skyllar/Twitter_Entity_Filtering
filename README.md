@@ -9,9 +9,12 @@ Approach:
 
 • Supervised Machine learning is used to decide if the entity belongs to an entity or
 not.
+
 • Dataset from RepLab, home page and wikipedia page of the entity is being used.
+
 • It involves pre-processing of the above data, extracting features from the data to
 train using SVM.
+
 • Test data also goes through same procedure, the output is predicted using the
 weight vector obtained from the trained model.
 
